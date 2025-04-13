@@ -1,0 +1,5 @@
+1. cd lifelike #進入資料夾 
+2. conda create --name test --file spec-list.txt #建立環境 
+3. activate test 
+4. pip install opencv-python #裝 opencv 
+5. python gui.py
